@@ -1,6 +1,6 @@
 import requests
 
-__ENDPOINT_URL__: str = "https://yuxinstore.squareweb.app/api"
+__ENDPOINT_URL__: str = "https://erxemshop.squareweb.app/api"
 
 class CPMTooldev:
     def __init__(self, access_key) -> None:
