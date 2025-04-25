@@ -13,8 +13,8 @@ from pystyle import Colors, Colorate
 
 from erxem import CPMTooldev
 
-__CHANNEL_USERNAME__ = "ErxemShopChannel"
-__GROUP_USERNAME__   = "Erxem"
+__CHANNEL_USERNAME__ = "Carlcpmtool"
+__GROUP_USERNAME__   = "Carlcpmtolgroup"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
